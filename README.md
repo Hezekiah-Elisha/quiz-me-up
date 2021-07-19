@@ -6,3 +6,5 @@ objects were highly used ```obj[]```
 The commonly known flexbox was highly used and ```background-image: linear-gradient();``` was used to give the gradient background
 ## HTML
 HTML 5 elements were used ```<main></main>```
+## link to access
+https://hezekiah-elisha.github.io/quiz-me-up/
